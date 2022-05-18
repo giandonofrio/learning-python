@@ -1,14 +1,27 @@
 ## Setup
-1. Prerequisite: [Python 3.x](https://www.python.org/downloads/)
-2. Install Tkinter:
+1. Pre requisitos: [Python 3.x](https://www.python.org/downloads/)
+2. Instalar Tkinter:
 
-- For Windows
+- Windows
 ```
 pip install tk
 ```
 
-- For MacOS
+- MacOS
 ```
-```
+brew install python-tk
+o
 pip3 install tk
 ```
+3. Correr el archivo .py
+
+- Windows
+```
+python clientes.py
+```
+
+- MacOS
+```
+python3 clientes.py
+```
+
